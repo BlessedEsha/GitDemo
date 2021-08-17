@@ -75,6 +75,10 @@ class TestOne(BaseClass):
 
         #Take step screenshot code
         self.driver.get_screenshot_as_file("screenshot.png")
+        print("Add line1 ")
+        print("Add line 2")
+        print("Add line 3")
+        print("Add line 4")
 
 
 
