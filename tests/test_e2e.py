@@ -91,5 +91,11 @@ class TestOne(BaseClass):
     def test_GitBranching2(self):
         print("Git Branching 2")
 
+    def test_GitBranch3(self):
+        print("Git Branching 1")
+
+    def test_GitBranching4(self):
+        print("Git Branching 2")
+
 
 
