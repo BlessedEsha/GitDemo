@@ -85,5 +85,11 @@ class TestOne(BaseClass):
         print("Add line 7")
         print("Add line 8")
 
+    def test_GitBranch1(self):
+        print("Git Branching 1")
+
+    def test_GitBranching2(self):
+        print("Git Branching 2")
+
 
 
